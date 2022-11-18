@@ -15,7 +15,7 @@
 
     .head-container {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         width: 100%;
         height: 14rem;
         display: flex;
@@ -27,7 +27,7 @@
     .foot-container {
 
         width: 100%;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         height: 18rem;
         display: flex;
         /* flex-direction: row;
@@ -38,7 +38,7 @@
     .left-head-container {
 
         width: 45%;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         background-image: url('./images/bg-pattern-top-desktop.svg');
         background-repeat: no-repeat;
         background-size: contain;
@@ -48,7 +48,7 @@
     .right-head-container {
 
         width: 55%;
-        border: 1px solid rgb(18, 188, 38);
+        /* border: 1px solid rgb(18, 188, 38); */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -56,7 +56,7 @@
 
     h1.left-heading {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         width: 45%;
         font-family: 'League Spartan', sans-serif;
         /* margin-left: 5rem; */
@@ -70,7 +70,7 @@
         line-height: .9rem;
         font-size: .6rem;
         font-weight: 700;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         width: 55%;
         margin-left: 8rem;
         color: rgb(78, 78, 78);
@@ -79,7 +79,7 @@
     .star {
 
         width: 58.7%;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         height: 1.9rem;
         border-top-left-radius: .5rem;
         border-bottom-left-radius: .5rem;
@@ -105,7 +105,7 @@
 
     .image-container {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         width: 34%;
         height: 1.9rem;
         /* margin-left: 1rem; */
@@ -120,7 +120,7 @@
 
     .review1 {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         font-size: .7rem;
         width: 45%;
         height: 1.2rem;
@@ -133,7 +133,7 @@
 
     .review2 {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         font-size: .7rem;
         width: 48%;
         height: 1.2rem;
@@ -146,7 +146,7 @@
 
     .review3 {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         font-size: .7rem;
         width: 49%;
         height: 1.2rem;
@@ -159,7 +159,7 @@
 
     .footer-container {
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         background-color:hsl(300, 43%, 22%);
         width: 23%;
         height: 10rem;
@@ -172,7 +172,7 @@
     
     .image{
 
-       border: 1px solid black;
+       /* border: 1px solid black; */
        border-top-left-radius: 1.5rem;
        border-bottom-left-radius: 1.5rem;
        border-bottom-right-radius: 1.5rem;
@@ -187,7 +187,7 @@
 
     .intro{
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         width: 70%;
         height:2rem;
         display: inline-block;
@@ -201,7 +201,7 @@
 
     h6.intro-name{
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         width: 70%;
         margin: .1rem 0 0 0;
         color: antiquewhite;
@@ -210,7 +210,7 @@
     }
     p.intro-status{
 
-        border: 1px solid black;
+        /* border: 1px solid black; */
         font-size: 10px;
         width: 70%;
         margin-top: .1rem;
@@ -221,7 +221,7 @@
     p.feedback{
 
         max-width: 75%;
-        border: 1px solid black;
+        /* border: 1px solid black; */
         line-height: .8rem;
         margin: 0 auto;
         margin-top: 1rem;
